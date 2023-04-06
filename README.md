@@ -181,7 +181,10 @@ default-token-cwh29    kubernetes.io/service-account-token   3      105m
 metadata:
 ```
 
-
+Open a browser and type the following address in the address bar:
+```bash
+http://<host ip address>:30008
+```
 
 
 
