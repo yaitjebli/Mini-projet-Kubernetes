@@ -1,4 +1,4 @@
-# Mini-projet-Kubernetes (en cours de rédaction, brouillon) :
+# Mini-projet-Kubernetes (de la formation eazytraining.fr)
 
 
 
