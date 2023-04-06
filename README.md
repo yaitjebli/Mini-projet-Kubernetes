@@ -188,7 +188,15 @@ http://<host ip address>:30008
 
 ![image](https://user-images.githubusercontent.com/72947514/230341975-018812de-0d29-47ea-a2da-8227c9044b24.png)
 
+![image](https://user-images.githubusercontent.com/72947514/230349397-6f834528-5e6a-4c4b-839e-67d06def8932.png)
 
+![image](https://user-images.githubusercontent.com/72947514/230349442-0d97c34e-8c22-46be-bcab-3a8145e94bab.png)
+
+![image](https://user-images.githubusercontent.com/72947514/230349499-1afacc43-af2a-4265-a606-2e0a652b8927.png)
+
+![image](https://user-images.githubusercontent.com/72947514/230349557-59f2240b-4f3a-4299-929d-fe07a4a714b0.png)
+
+![image](https://user-images.githubusercontent.com/72947514/230349609-0c5d6bea-bfd7-472b-9a6f-0a618fb616ef.png)
 
 
 
