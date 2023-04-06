@@ -186,6 +186,7 @@ Open a browser and type the following address in the address bar:
 http://<host ip address>:30008
 ```
 
+![image](https://user-images.githubusercontent.com/72947514/230341975-018812de-0d29-47ea-a2da-8227c9044b24.png)
 
 
 
